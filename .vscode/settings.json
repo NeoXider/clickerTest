@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "clickerTest.sln"
+    "dotnet.defaultSolution": "clickerTest.sln",
+    "commentTranslate.targetLanguage": "ru"
 }
